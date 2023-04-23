@@ -1,4 +1,4 @@
-import { opacify } from 'polished';
+import { rgba } from 'polished';
 
 const colors = {
   gray900: '#16181E',
@@ -12,10 +12,10 @@ export const theme = {
     background: colors.gray900,
     backgroundLight: colors.gray800,
     text: colors.gray50,
-    descriptionText: opacify(70)(colors.gray50),
-    secondaryTitle: opacify(67)(colors.gray50),
-    secondaryButton: opacify(20)(colors.gray50),
-    border: opacify(10)(colors.gray50),
+    descriptionText: rgba(colors.gray50, 0.7),
+    secondaryTitle: rgba(colors.gray50, 0.67),
+    secondaryButton: rgba(colors.gray50, 0.2),
+    border: rgba(colors.gray50, 0.1),
     primary: colors.teal500,
   },
 };
