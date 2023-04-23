@@ -1,7 +1,5 @@
+import { HomeLayout } from '@/layouts/HomeLayout/HomeLayout';
+
 export default function Home() {
-  return (
-    <div>
-      <h1>Hello World!</h1>
-    </div>
-  );
+  return <HomeLayout />;
 }

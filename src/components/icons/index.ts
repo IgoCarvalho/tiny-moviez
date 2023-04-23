@@ -1,0 +1,12 @@
+export { HomeIcon } from './HomeIcon';
+export { DiscoverIcon } from './DiscoverIcon';
+export { CelebritiesIcon } from './CelebritiesIcon';
+export { AwardsIcon } from './AwardsIcon';
+export { RecentIcon } from './RecentIcon';
+export { TopRatedIcon } from './TopRatedIcon';
+export { DownloadedIcon } from './DownloadedIcon';
+export { PlaylistsIcon } from './PlaylistsIcon';
+export { WatchListIcon } from './WatchListIcon';
+export { CompletedIcon } from './CompletedIcon';
+export { SettingsIcon } from './SettingsIcon';
+export { LogOutIcon } from './LogOutIcon';
