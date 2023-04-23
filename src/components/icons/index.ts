@@ -10,3 +10,8 @@ export { WatchListIcon } from './WatchListIcon';
 export { CompletedIcon } from './CompletedIcon';
 export { SettingsIcon } from './SettingsIcon';
 export { LogOutIcon } from './LogOutIcon';
+export { SearchIcon } from './SearchIcon';
+export { FilterIcon } from './FilterIcon';
+export { NextIcon } from './NextIcon';
+export { PreviousIcon } from './PreviousIcon';
+export { PlusIcon } from './PlusIcon';

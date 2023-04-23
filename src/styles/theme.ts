@@ -17,6 +17,7 @@ export const theme = {
     secondaryButton: rgba(colors.gray50, 0.2),
     border: rgba(colors.gray50, 0.1),
     primary: colors.teal500,
+    previewOverlay: rgba(colors.gray900, 0.4),
   },
 };
 

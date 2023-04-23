@@ -3,6 +3,7 @@ import styled, { css } from 'styled-components';
 
 export const Container = styled.aside`
   min-height: 100vh;
+  width: 100%;
   max-width: 248px;
   padding: 48px 38px;
   padding-right: 0;
